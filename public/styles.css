@@ -1,0 +1,17 @@
+.card {
+  margin-bottom: 20px;
+}
+
+.card-title {
+  color: #007bff;
+}
+
+.btn-light-blue {
+  background-color: #5bc0de;
+  color: white;
+}
+
+.btn-light-blue:hover {
+  background-color: #31b0d5;
+  color: white;
+}
